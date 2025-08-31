@@ -1,0 +1,12 @@
+# Ignore virtual environment
+appenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset files (optional if CSV is too large)
+*.csv
